@@ -1,4 +1,4 @@
-import css from './profile.module.scss';
+
 
 const Profile = ({ items }) => {
 	const {
