@@ -4,7 +4,7 @@ const TransactionsHistory = ({ items }) => {
 			className="mx-auto bg-slate-100 border-collapse rounded-sm mb-20"
 			style={{ width: '600px' }}
 		>
-			<thead>
+			<thead className="bg-teal-500 border-2 border-teal-500">
 				<tr>
 					<th className="h-16 border-b-2 border-slate-400 ">Type</th>
 					<th className="h-16 border-l-2 border-slate-400 border-b-2 ">
